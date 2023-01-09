@@ -1,5 +1,6 @@
 # stocks_categorization
-This project focusses on three basic problem statement
+This project focusses on three basic problem statement.
+
 Problem 1:
 
   There are various stocks for which we have collected a data set,
